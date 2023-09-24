@@ -1,0 +1,11 @@
+{
+  "name": "ift458-m3-l1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockLevel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
